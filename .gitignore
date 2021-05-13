@@ -1,0 +1,15 @@
+#IDE Specifications
+.vscode
+
+#Dependencies
+node_modules
+package-lock.json
+
+#Build files
+dist
+
+#Analysis files
+coverage
+tests/componentTests/__snapshots__
+
+

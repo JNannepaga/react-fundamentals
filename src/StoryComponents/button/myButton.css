@@ -1,0 +1,21 @@
+.button{
+    border: none;
+    padding: 5px 2px 5px 2px;
+    margin: auto;
+}
+
+.primary{
+    background-color: blue;
+}
+
+.success{
+    background-color: green;
+}
+
+.info{
+    background-color: orange;
+}
+
+.warning{
+    background-color: yellow;
+}
